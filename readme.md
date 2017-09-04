@@ -10,14 +10,27 @@ Application of creative design, composition and narrative for the creation of we
 This course will provide the student with knowledge for interactive web design. The course will reinforce and encourage use of basic art and design principles. Students will increase their experience with web design projects. Throughout the course, the student will practice file management and crossplatform considerations.
 
 ## Textbook & Materials:
--
+- Notebook (a section devoted to this class only)
+- External Hard Drive
+- Sketch Pad
+- There is no specific textbook required.
+- **Students are responsible for backing up their work on multiple devices – No Excuses.**
 
-## Suggested Reference:
-- [HTML Cheatsheet](https://www.google.com)
+## Reference:
+- [HTML Cheatsheet](https://github.com/compagnb/web-design-I/blob/master/resources/HTML5_Cheatsheet.pdf)
+- [CSS Cheatsheet](https://github.com/compagnb/web-design-I/blob/master/resources/CSS3_Cheatsheet.pdf)
+- [JavaScript Cheatsheet](https://github.com/compagnb/web-design-I/blob/master/resources/JavaScript_Cheatsheet.pdf)
+- [Jquery Cheatsheet](https://oscarotero.com/jquery/)
+
+## Suggested Readings
+- [HTML & CSS](http://www.htmlandcssbook.com/)
+- [Adobe Dreamweaver CC Classroom in a Book (2017 release)](http://www.adobepress.com/store/adobe-dreamweaver-cc-classroom-in-a-book-2017-release-9780134664286)
+
+
 
 ## Course Outline:
 1. Introduction to the Web
-2. 
+2. HTML: Elements Of Structure
 3.
 4.
 5.
