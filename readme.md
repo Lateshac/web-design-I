@@ -10,8 +10,10 @@ Application of creative design, composition and narrative for the creation of we
 This course will provide the student with knowledge for interactive web design. The course will reinforce and encourage use of basic art and design principles. Students will increase their experience with web design projects. Throughout the course, the student will practice file management and crossplatform considerations.
 
 ## Textbook & Materials:
+-
 
 ## Suggested Reference:
+- [HTML Cheatsheet](https://www.google.com)
 
 ## Course Outline:
 1. Introduction to the Web
@@ -40,7 +42,8 @@ This course will provide the student with knowledge for interactive web design. 
 - Servers
 - Protocols
 - Server & Client side
-- **Homework:**
+- Intro To Class Blog
+- **Homework:** Post an Interesting Website to the Blog.
 - **Vocabulary:** HTML, CSS, JavaScript
 
 ### September 11: HTML
@@ -51,7 +54,7 @@ This course will provide the student with knowledge for interactive web design. 
 
 ### September 13 (Lab): 
 
-### September 18: 
+### September 18: CSS
 - 
 - **Example Code:**
 - **In-Class Assignment:** 
