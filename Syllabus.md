@@ -1,6 +1,6 @@
-# WEB DESIGN I Syllabus
+# Syllabus
 
-Instructor: Prof. Barbara Compagnoni
+**Instructor: Prof. Barbara Compagnoni
 Email:
 
 Meeting Times:
