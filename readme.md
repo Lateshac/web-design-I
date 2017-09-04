@@ -1,6 +1,5 @@
 # Web Design I
-Mondays 06:25PM - 09:15PM
-Wednesdays 06:25PM - 07:45PM 
+Mondays 06:25PM - 09:15PM | Wednesdays 06:25PM - 07:45PM 
 
 ## Syllabus
 
@@ -35,8 +34,16 @@ This course will provide the student with knowledge for interactive web design. 
 
 ## Course Breakdown:
 ### September 6: Introduction to the Web
+- Syllabus & Policies
+- Web Structures
+- Browsers
+- Servers
+- Protocols
+- Server & Client side
+- **Homework:**
+- **Vocabulary:** HTML, CSS, JavaScript
 
-### September 11: 
+### September 11: HTML
 - 
 - **Example Code:**
 - **In-Class Assignment:** 
