@@ -22,13 +22,13 @@ This course will provide the student with knowledge for interactive web design. 
 5.
 6.
 7.
-8.
+8. Midterms
 9.
 10.
 11.
-13.
-14.
-15. Final Presentations
+13. Working Session
+14. Working Session
+15. Finals
 
 
 
@@ -37,48 +37,99 @@ This course will provide the student with knowledge for interactive web design. 
 ### September 6: Introduction to the Web
 
 ### September 11: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### September 13 (Lab): 
 
 ### September 18: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### September 20 (Lab): 
 
 ### September 25: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### September 27 (Lab): Substitute
 
 ### October 2: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### October 4 (Lab): 
 
 ### October 9: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### October 11 (Lab): 
 
 ### October 16: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### October 18 (Lab): 
 
 ### October 23: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### October 25 (Lab): 
 
 ### October 30: 
+- 
+- **Example Code:**
+- **In-Class Assignment:** 
+- **Vocabulary:**
+
 ### November 1 (Lab): 
 
-### November 6:
-### November 8 (Lab):
+### November 6: Midterm Presentations
+- Midterm presentations
+### November 8 (Lab): Midterm Exam
+- Midterm Exam
 
 ### November 13:
 ### November 15 (Lab):
 
-### November 20:
-### November 22 (Lab):
+### November 20: 
+### November 22: 
 
 ### November 27:
 ### November 29 (Lab):
 
 ### December 4: Working Session
+- Working session on final project.
+
 ### December 6: Working Session
+- Working session on final project.
 
 ### December 11: Working Session
+- Working session on final project.
+
 ### December 13: Working Session
+- Working session on final project.
 
 ### December 18: Final Presentations
-### December 20: Final Presentations
+- Final presentations
+
+### December 20: Final Exam
+- Final Exam
 
 
