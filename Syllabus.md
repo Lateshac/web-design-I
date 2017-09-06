@@ -1,4 +1,5 @@
-# Syllabus
+# Syllabus: Web Design I, Art 239 
+CRN16918 | Section A11
 
 ## Prerequisites 
 - ART130 Graphic Design I
@@ -9,6 +10,7 @@
 ## Meeting Times
 - Mondays 06:25PM - 09:15PM
 - Wednesdays 06:25PM - 07:45PM
+- Room G169
 
 ## Instructor
 - Prof. Barb Compagnoni
@@ -23,7 +25,8 @@ This course will provide the student with knowledge for interactive web design. 
 
 ## Textbook & Materials:
 - Notebook (a section devoted to this class only)
-- 2x External Hard Drives or Thumbdrives (of an appropriate size)
+- External Hard Drives or Thumbdrives (of an appropriate size)
+- Two Pocket Folders
 - Sketch Pad
 - There is no specific textbook required.
 - **Students are responsible for backing up their work on multiple devices – No Excuses.**
@@ -70,7 +73,23 @@ additional resources)**
 - All students are required to have in their possession an NCC ID card with a current validation sticker while on campus. Your ID card must be presented upon request.
 
 ## Attendance
-- **Students are expected to attend all class sessions.** Plan on being ontime to every class. **THREE** absences (excused or unexcused) are allowed. Each absence after three will lower your final grade by **one-half letter grade. SIX absences or above will result in failure or withdrawal** (depending on what is earned). Two occurrences of lateness count as ONE absence. (A student is considered late if they come in after attendance is taken.) If a student arrives late, it is the STUDENT'S RESPONSIBILITY to make sure they have been marked present in order to receive credit for the class. Leaving class early or coming back late from a class break counts as one late mark. Missing more than 20% of any class will count as a full absence.
+- **Students are expected to attend all class sessions.** Plan on being ontime to every class. **THREE** absences (excused or unexcused) are allowed. Each absence after three will lower your final grade by **one-half letter grade. SIX absences or above will result in failure or withdrawal** (depending on what is earned). **Two** occurrences of lateness count as **ONE** absence. *(A student is considered late if they come in after attendance is taken.)* If a student arrives late, it is the **STUDENT'S RESPONSIBILITY** to make sure they have been marked present in order to receive credit for the class. Leaving class early or coming back late from a class break counts as one late mark. Missing more than 20% of any class will count as a full absence.
+- If you miss an exam, quiz, or presentation you will have **ONE WEEK** from the date given to make it up. If you do not schedule the make up within one week or miss the scheduled make-up date **you will receive a grade of 0. 10 points will be deducted** unless a doctor’s note is provided. 
+- **Students are responsible for all materials, notes and assignments for any class unattended.**
+
+## Practice & Notes
+- **Dedication, Self-Critique, Revision, and Practice are all vital to your success in this course!** Students will need to spend a **minimum of 6–9 hours/week** outside of class to complete projects and practice and learn theory & techniques. 
+- **All students are required to maintain notes** on class instruction. These notes must be presented at the end of the semester as part of your grade.
+
+## Assignments
+- A full web site and 4 presentations are expected. Assignments will be considered late if they are not handed in at the **start of class** and **will not be accepted if they are not in a Pocket Folder.** (If you cannot attend the class a project is due, you must email the assignment to me for it not to be considered late.) **Projects will not be accepted AFTER ONE CLASS PAST THE DUE DATE.** Late projects will result in a lowered grade: **ONE FULL LETTER GRADE.** Late projects cannot take advantage of re-submission for extra grade points, when offered. Projects are not to be worked on in class unless time has been designated for that purpose. 
+- **NOTHING WILL BE ACCEPTED AFTER THE LAST SCHEDULED CLASS.**
+
+## Miscellaneous Dates *(subject to change)*
+- The midterm exam is scheduled for **OCTOBER 25th.**
+- The final exam is scheduled for **DECEMBER 6th.**
+
+## Required *(No Subtitutions, No Extra Credit)*
 
 ## Course Outline:
 1. Introduction to the Web
@@ -102,101 +121,5 @@ additional resources)**
 - Intro To Class Blog
 - **Homework:** Post an Interesting Website to the Blog.
 - **Vocabulary:** HTML, CSS, JavaScript
-
-### September 11: HTML
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### September 13 (Lab): 
-
-### September 18: CSS
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### September 20 (Lab): 
-
-### September 25: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### September 27 (Lab): Substitute
-
-### October 2: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### October 4 (Lab): 
-
-### October 9: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### October 11 (Lab): 
-
-### October 16: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### October 18 (Lab): 
-
-### October 23: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### October 25 (Lab): 
-
-### October 30: 
-- 
-- **Example Code:**
-- **In-Class Assignment:** 
-- **Vocabulary:**
-
-### November 1 (Lab): 
-
-### November 6: Midterm Presentations
-- Midterm presentations
-### November 8 (Lab): Midterm Exam
-- Midterm Exam
-
-### November 13:
-### November 15 (Lab):
-
-### November 20: 
-### November 22: 
-
-### November 27:
-### November 29 (Lab):
-
-### December 4: Working Session
-- Working session on final project.
-
-### December 6: Working Session
-- Working session on final project.
-
-### December 11: Working Session
-- Working session on final project.
-
-### December 13: Working Session
-- Working session on final project.
-
-### December 18: Final Presentations
-- Final presentations
-
-### December 20: Final Exam
-- Final Exam
 
 
