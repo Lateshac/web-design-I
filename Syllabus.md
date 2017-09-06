@@ -218,25 +218,110 @@ received.*
 - Students who feel that their rights are not respected are encouraged to speak with the Art Department Chairperson.
 
 ## Weekly
-- **Week 1**: Introduction
+- **Week 1**: 
   - Syllabus and policies
   - Copyright
   - Plagiarism
+  - Dreamweaver Interface
+  - Responsive web page design and device types
+  - Browser interface
+  - Term definition: HTML, CSS and JavaScript
 
-- **Week 2**: HTML
+- **Week 2**:
+  - Overview: document window, objects palette, property inspector, etc.
+  - Creating web account
+  - Getting web host
+  - Setting up Web Browsers for previews
+  - Previewing in a browser
+  - Basic HTML structure and head elements
+  - HTML tags and attributes
 
-- **Week 3**: CSS
+- **Week 3**:
+  - Basic use of CSS
+  - CSS selectors (tag, id, class, and compound)
+  - CSS reset stylesheets
+  - Viewing and editing HTML and CSS source code
+  - Code Navigator
+  - Creating new files and formatting Text
+  - Naming and storing html and css documents
+  - Attaching external style sheets
+  - Web colors – hexadecimal system
+  
 - **Week 4**:
+  - Root Folder, file management
+  - Defining a Site
+  - FTP File
+  - Transfer Protocol (Uploading/downloading files to web server)
+  - Link basics
+  - Setting site linking preferences
+  - Creating links in Dreamweaver
+  - Absolute links
+  
 - **Week 5**:
+  - Intro to PhotoShop for the web
+  - RGB and Indexed colors
+  - Antialiasing
+  - gif, jpg, png, and transparency
+  
 - **Week 6**:
+  - Paste in as text
+  - Aligning and formatting text with CSS
+  - Line breaks vs. paragraph breaks
+  - Using named anchors
+  - Using Visual Aids
+  - Adding special characters
+  
 - **Week 7**:
+  - Creating lists
+  - Inserting images
+  - Background graphics
+  - Creating image maps
+
 - **Week 8**:
+  - Controlling Layout with CSS
+  - CSS structuring basics
+  - Structuring with semantic tags
+  - Using div containers
+  - The Box Model
+  - Positioning (static, absolute, relative, and fixed)
+
 - **Week 9**:
+  - Gif Animation
+  - Preparing graphics for Hover Buttons
+  - Creating full page layout | Slicing
+
 - **Week 10**:
+  - Iframes
+  - Illustrator for the web
+  - Checking for broken links
+  - Validating markup
+  - Working with video and sound
+
 - **Week 11**:
+  - Setting CSS preferences | The CSS Styles panel
+  - Controlling CSS through the Properties Inspector
+
 - **Week 12**:
+  - Adding User Interactivity | Behaviors overview
+  - Creating disjointed rollovers
+  - Hiding and showing elements
+  - Spry and jQuery overview
+  - Grid systems for responsive design
+
 - **Week 13**:
+  - Working with forms
+  - How forms work
+  - Reviewing form design
+  - Creating accessible forms
+  - Thank you or redirect pages
+  
 - **Week 14**:
+  - Browser compatibility
+  - Entering remote information
+  - Synchronizing sites
+  - Updating and publishing files
+  - HTML5 overview of components (geolocation, canvas, drag and drop, svg, web storage, etc.)
+
 - **Week 15**: Final exam & In-class Presentations
 
 
